@@ -1,4 +1,4 @@
-# Usage
+# Component Query Builder
 ### 1. Connect component Query Builder:
 ```php
 require_once "Component/QueryBilder.php";
